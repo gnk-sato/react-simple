@@ -1,0 +1,10 @@
+# Ignore bundler config.
+/.bundle.js
+
+/tmp
+
+/log
+
+*.swp
+
+/node_modules
